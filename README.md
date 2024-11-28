@@ -1,1 +1,2 @@
 # Regression-Cardiovascular-Disease-Prediction
+This project focuses on building a logistic regression model to predict the likelihood of an individual developing coronary heart disease (CHD) within the next 10 years. The dataset contains health-related features such as age, sex, smoking habits, blood pressure, cholesterol levels, BMI, and other factors that can influence heart disease risk. The project involves data preprocessing (handling missing values and encoding categorical features), feature selection, and model training to make accurate predictions.
